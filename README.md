@@ -1,6 +1,6 @@
 # Lab-1
 
-## Развёртывание Keycloak с использованием Docker
+## Развёртывание Keycloak при помощи Docker
 
 ![](screenshots/0.png)
 
@@ -18,7 +18,7 @@
 
 ![](screenshots/4.png)
 
-## Создание пользователей `appadmin` и `user`
+## Создание пользователей
 
 ![](screenshots/5.png)
 
@@ -28,13 +28,13 @@
 
 ![](screenshots/7.png)
 
-## Развёртывание приложения Nextcloud с использованием Docker
+## Развёртывание приложения Nextcloud при помощи Docker
 
 ![](screenshots/8.png)
 
 ![](screenshots/9.png)
 
-## Создание клиента в Keycloak
+## Создание клиента
 
 ![](screenshots/10.png)
 
@@ -42,11 +42,11 @@
 
 ![](screenshots/12.png)
 
-## Создание ролей `admin` и `user`
+## Создание ролей
 
 ![](screenshots/13.png)
 
-##               Cтартовая страница Nextcloud
+## Cтартовая страница Nextcloud
 
 ![](screenshots/14.png)
 
@@ -54,22 +54,22 @@
 
 ![](screenshots/15.png)
 
-## Конфигурация Nextcloud для работы совместно с Keycloak
+## Конфигурация для работы с Keycloak
 
 ![](screenshots/16.png)
 
-## Возможность аутентифицироваться в Nextcloud через Keycloak на странице входа
+## Проверка возможность идентификации через Keycloak
 
 ![](screenshots/17.png)
 
-## Включение двухфакторной аутентификации в Keycloak
+## Включение двухфакторной аутентификации
 
 ![](screenshots/18.png)
 
-## Страница настройки 2FA при попытке аутентифицироваться
+## Страница настройки 2FA
 
 ![](screenshots/19.png)
 
-## Страница ввода одноразового кода при входе в аккаунт
+## Страница ввода одноразового кода
 
 ![](screenshots/20.png)
