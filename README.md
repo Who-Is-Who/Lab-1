@@ -28,7 +28,7 @@
 
 ![](screenshots/7.png)
 
-## Развёртывание приложения Nextcloud при помощи Docker
+## Развёртывание Nextcloud при помощи Docker
 
 ![](screenshots/8.png)
 
